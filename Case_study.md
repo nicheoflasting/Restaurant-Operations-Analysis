@@ -13,7 +13,7 @@ SELECT COUNT(*) AS number_items FROM menu_items;
 
 <img width="170" height="56" alt="image" src="https://github.com/user-attachments/assets/81f9ec36-fb50-47bf-8b38-53d978c88d46" />
 
-There are 554 unique users in the dataset.
+There are 32 items in the menu of restaurant
 
 ***
 
@@ -29,7 +29,7 @@ ORDER BY price;
 
 <img width="650" height="25" alt="image" src="https://github.com/user-attachments/assets/114ef61c-0d8b-4a83-a6f2-75adf157ad6c" />
 
-There are 554 unique users in the dataset.
+The highest price of items shares 19.95 with Italian food called "Shrimp Scampi" while "Edamame" hits the rock bottom at 5
 
 ***
 
@@ -45,7 +45,7 @@ FROM order_details;
 
 <img width="645" height="72" alt="image" src="https://github.com/user-attachments/assets/0591de04-b457-4e8f-a377-8e96d5d7a60c" />
 
-There are 554 unique users in the dataset.
+Through 3 months approximately 90 days,there are totally 5370 orders and 12097 items are made
 
 ***
 
@@ -69,7 +69,7 @@ ORDER BY amount
 
 <img width="382" height="23" alt="image" src="https://github.com/user-attachments/assets/41fcd5ce-fcbc-4699-b568-a9bc0510a91d" />
 
-There are 554 unique users in the dataset.
+"Hamburger" is ordered the most although not having the cheapest price. It is likely to originate from the convinient popularity of fast food. "Chicken Tacos" from Mexico is specific to Mexcian food lovers
 
 ***
 
@@ -90,7 +90,7 @@ LIMIT 5;
 
 <img width="206" height="160" alt="image" src="https://github.com/user-attachments/assets/9ee15cef-397c-4fc9-b4f1-b52145acf89d" />
 
-There are 554 unique users in the dataset.
+Through the list of top 5 spending money the most, the totals of 1 customer is over 180
 
 ***
 
@@ -111,7 +111,7 @@ ORDER BY category;
 
 <img width="567" height="144" alt="image" src="https://github.com/user-attachments/assets/372da39c-1fda-4d0c-a7e8-1b77a4236796" />
 
-There are 554 unique users in the dataset.
+Specifically, when deepening into the first place holding the most total price, this person ordered 8 portions of "Spaghetti". This could mean the Italian food is suitably popular to those people wanting a safe option or being curious about how tasteful it is.
 
 ***
 
@@ -134,7 +134,7 @@ SELECT * FROM cohorts;
 
 <img width="389" height="116" alt="image" src="https://github.com/user-attachments/assets/32a4266b-3bf4-4c6f-b0ba-1a9faefc70e5" />
 
-There are 554 unique users in the dataset.
+The sale for the first month holds the first place for its debutted day. After one month, the sale drops around 3000. This highlights the decrease in how curious customers are. For the 3rd month, there is a change in strategic operations. The sales hit the peak with 54610.60
 
 ***
 
@@ -155,7 +155,7 @@ GROUP BY cohort_month;
 
 <img width="317" height="113" alt="image" src="https://github.com/user-attachments/assets/59b11c5b-7a1e-4468-8d00-99f4e14d74c7" />
 
-There are 554 unique users in the dataset.
+Although the sale increases from Jan to Mar, the customers slightly declined. This could be mainly because of the relationship of loyal customers and the amount of ordered items.
 
 ***
 
@@ -174,6 +174,6 @@ WHERE item_name IS NULL;
 
 <img width="173" height="63" alt="image" src="https://github.com/user-attachments/assets/070f1ec2-418e-41c4-9027-aab2d3c356c1" />
 
-There are 554 unique users in the dataset.
+However, a number of orders are cancelled with 137. This could derive from the customers cancel items in the bill or the error of system through operation for making a new order for customers.
 
 ***
