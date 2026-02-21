@@ -2,7 +2,9 @@
 
 This is a small project of business analysis through using SQL
 
-## Purpose: Dig into the customer data to see which menu items are doing well / not well and what the top customers seem to like best
+## Purpose: 
+
+Dig into the customer data to see which menu items are doing well / not well and what the top customers seem to like best
 
 ## The Objectives:
 
