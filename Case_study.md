@@ -11,7 +11,7 @@ SELECT COUNT(*) AS number_items FROM menu_items;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="170" height="56" alt="image" src="https://github.com/user-attachments/assets/81f9ec36-fb50-47bf-8b38-53d978c88d46" />
 
 There are 554 unique users in the dataset.
 
