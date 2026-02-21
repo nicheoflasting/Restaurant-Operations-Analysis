@@ -25,7 +25,9 @@ ORDER BY price;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="651" height="57" alt="image" src="https://github.com/user-attachments/assets/d993abc3-117d-4ec1-942d-635e8a97fad1" />
+
+<img width="650" height="25" alt="image" src="https://github.com/user-attachments/assets/114ef61c-0d8b-4a83-a6f2-75adf157ad6c" />
 
 There are 554 unique users in the dataset.
 
@@ -41,7 +43,7 @@ FROM order_details;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="645" height="72" alt="image" src="https://github.com/user-attachments/assets/0591de04-b457-4e8f-a377-8e96d5d7a60c" />
 
 There are 554 unique users in the dataset.
 
@@ -63,7 +65,9 @@ ORDER BY amount
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="389" height="63" alt="image" src="https://github.com/user-attachments/assets/23dd7d8d-af05-4d92-b70f-45dfe373e1ef" />
+
+<img width="382" height="23" alt="image" src="https://github.com/user-attachments/assets/41fcd5ce-fcbc-4699-b568-a9bc0510a91d" />
 
 There are 554 unique users in the dataset.
 
@@ -84,7 +88,7 @@ LIMIT 5;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="206" height="160" alt="image" src="https://github.com/user-attachments/assets/9ee15cef-397c-4fc9-b4f1-b52145acf89d" />
 
 There are 554 unique users in the dataset.
 
@@ -105,7 +109,7 @@ ORDER BY category;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="567" height="144" alt="image" src="https://github.com/user-attachments/assets/372da39c-1fda-4d0c-a7e8-1b77a4236796" />
 
 There are 554 unique users in the dataset.
 
@@ -128,7 +132,7 @@ SELECT * FROM cohorts;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="389" height="116" alt="image" src="https://github.com/user-attachments/assets/32a4266b-3bf4-4c6f-b0ba-1a9faefc70e5" />
 
 There are 554 unique users in the dataset.
 
@@ -149,7 +153,7 @@ GROUP BY cohort_month;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="317" height="113" alt="image" src="https://github.com/user-attachments/assets/59b11c5b-7a1e-4468-8d00-99f4e14d74c7" />
 
 There are 554 unique users in the dataset.
 
@@ -168,7 +172,7 @@ WHERE item_name IS NULL;
 ````
 **Answer:**
 
-<img width="141" alt="image" src="https://user-images.githubusercontent.com/81607668/128624690-edfb1c8e-2a46-4bd9-a699-d2e678d42664.png">
+<img width="173" height="63" alt="image" src="https://github.com/user-attachments/assets/070f1ec2-418e-41c4-9027-aab2d3c356c1" />
 
 There are 554 unique users in the dataset.
 
